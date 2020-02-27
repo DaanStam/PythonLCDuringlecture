@@ -14,16 +14,9 @@ donatello.color("red")
 donatello.pensize(5)
 
 leonardo.forward(50)
-leonardo.left(120)
-leonardo.forward(50)
-leonardo.left(120)
-leonardo.forward(50)
-leonardo.right(120)
-leonardo.forward(100)
+leonardo.circle(300)
 
-donatello.forward(300)
-donatello.left(90)
-donatello.forward(200)
+donatello.forward(30)
 donatello.circle(300)
 
 window.exitonclick()
